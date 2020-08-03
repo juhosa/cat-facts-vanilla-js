@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  font-weight: 700;
+  letter-spacing: 0.191em;
+  font-size: 39px;
+}
+#app {
+  width: 60em;
+}
+
+#the_fact {
+  letter-spacing: 0.084em;
+}
